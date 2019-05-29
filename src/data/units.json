@@ -1,0 +1,22 @@
+{
+  "infantry": {
+    "id": "infantry",
+    "name": "infantry"
+  },
+  "archer": {
+    "id": "archer",
+    "name": "archer"
+  },
+  "horseman": {
+    "id": "horseman",
+    "name": "horseman"
+  },
+  "troll": {
+    "id": "troll",
+    "name": "troll"
+  },
+  "elephant": {
+    "id": "elephant",
+    "name": "elephant"
+  }
+}

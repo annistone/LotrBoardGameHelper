@@ -1,0 +1,18 @@
+{
+  "orc": {
+    "id": "orc",
+    "name": "orc"
+  },
+  "dwarf": {
+    "id": "dwarf",
+    "name": "dwarf"
+  },
+  "elf": {
+    "id": "elf",
+    "name": "elf"
+  },
+  "human": {
+    "id": "human",
+    "name": "human"
+  }
+}
